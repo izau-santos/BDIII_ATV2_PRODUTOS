@@ -1,0 +1,346 @@
+[
+    {
+        "nome": "Smart TV 55\"",
+        "valor": 3000.00,
+        "quantidade_em_estoque": 20,
+        "fabricante": "TechVision",
+        "categoria": "Eletrônicos",
+        "descricao": "TV LED com resolução 4K, smart e conexão Wi-Fi."
+    },
+    {
+        "nome": "Smartphone X10",
+        "valor": 2500.00,
+        "quantidade_em_estoque": 15,
+        "fabricante": "MobileCorp",
+        "categoria": "Celulares",
+        "descricao": "Smartphone com câmera de 108 MP e 128 GB de armazenamento."
+    },
+    {
+        "nome": "Notebook Pro 15\"",
+        "valor": 4500.00,
+        "quantidade_em_estoque": 10,
+        "fabricante": "CompTech",
+        "categoria": "Informática",
+        "descricao": "Notebook para jogos, com GPU dedicada e 16 GB de RAM."
+    },
+    {
+        "nome": "Fones de Ouvido BT",
+        "valor": 400.00,
+        "quantidade_em_estoque": 50,
+        "fabricante": "SoundWave",
+        "categoria": "Acessórios",
+        "descricao": "Fones de ouvido sem fio com cancelamento de ruído."
+    },
+    {
+        "nome": "Geladeira Inox",
+        "valor": 2800.00,
+        "quantidade_em_estoque": 8,
+        "fabricante": "FridgeMaster",
+        "categoria": "Eletrodomésticos",
+        "descricao": "Geladeira com 500 litros e tecnologia frost free."
+    },
+    {
+        "nome": "Aspirador Robô",
+        "valor": 1200.00,
+        "quantidade_em_estoque": 12,
+        "fabricante": "CleanBot",
+        "categoria": "Eletrodomésticos",
+        "descricao": "Aspirador robô com mapeamento e controle por app."
+    },
+    {
+        "nome": "Câmera DSLR",
+        "valor": 3500.00,
+        "quantidade_em_estoque": 5,
+        "fabricante": "PhotoMax",
+        "categoria": "Fotografia",
+        "descricao": "Câmera profissional com lente intercambiável."
+    },
+    {
+        "nome": "Impressora Multifuncional",
+        "valor": 700.00,
+        "quantidade_em_estoque": 25,
+        "fabricante": "PrintPro",
+        "categoria": "Informática",
+        "descricao": "Impressora a jato de tinta, escaneia e copia."
+    },
+    {
+        "nome": "Microondas Digital",
+        "valor": 600.00,
+        "quantidade_em_estoque": 30,
+        "fabricante": "CookEasy",
+        "categoria": "Eletrodomésticos",
+        "descricao": "Microondas com painel digital e função grill."
+    },
+    {
+        "nome": "Console de Videogame",
+        "valor": 2000.00,
+        "quantidade_em_estoque": 18,
+        "fabricante": "GameBox",
+        "categoria": "Jogos",
+        "descricao": "Console de última geração com 1 TB de armazenamento."
+    },
+    {
+        "nome": "Mochila para Notebook",
+        "valor": 150.00,
+        "quantidade_em_estoque": 40,
+        "fabricante": "BagCorp",
+        "categoria": "Acessórios",
+        "descricao": "Mochila com compartimento acolchoado para notebook."
+    },
+    {
+        "nome": "Teclado Mecânico",
+        "valor": 300.00,
+        "quantidade_em_estoque": 22,
+        "fabricante": "KeyTech",
+        "categoria": "Informática",
+        "descricao": "Teclado mecânico com retroiluminação RGB."
+    },
+    {
+        "nome": "Mouse Gamer",
+        "valor": 200.00,
+        "quantidade_em_estoque": 30,
+        "fabricante": "GamerGear",
+        "categoria": "Acessórios",
+        "descricao": "Mouse gamer com 16.000 DPI e iluminação RGB."
+    },
+    {
+        "nome": "Monitor 27\"",
+        "valor": 1200.00,
+        "quantidade_em_estoque": 15,
+        "fabricante": "ViewMax",
+        "categoria": "Informática",
+        "descricao": "Monitor IPS 144Hz com resolução Full HD."
+    },
+    {
+        "nome": "Cadeira Gamer",
+        "valor": 900.00,
+        "quantidade_em_estoque": 10,
+        "fabricante": "ComfortSeats",
+        "categoria": "Móveis",
+        "descricao": "Cadeira ergonômica para jogos com apoio de braços ajustável."
+    },
+    {
+        "nome": "Smartwatch V1",
+        "valor": 700.00,
+        "quantidade_em_estoque": 25,
+        "fabricante": "TimeTech",
+        "categoria": "Wearables",
+        "descricao": "Relógio inteligente com monitoramento de saúde."
+    },
+    {
+        "nome": "Caixa de Som Bluetooth",
+        "valor": 350.00,
+        "quantidade_em_estoque": 40,
+        "fabricante": "SoundBox",
+        "categoria": "Acessórios",
+        "descricao": "Caixa de som portátil com conexão Bluetooth e 12 horas de bateria."
+    },
+    {
+        "nome": "Carregador Portátil",
+        "valor": 100.00,
+        "quantidade_em_estoque": 60,
+        "fabricante": "PowerBank",
+        "categoria": "Acessórios",
+        "descricao": "Carregador portátil com 10.000 mAh e duas saídas USB."
+    },
+    {
+        "nome": "Bicicleta Aro 26\"",
+        "valor": 1200.00,
+        "quantidade_em_estoque": 8,
+        "fabricante": "BikeWorld",
+        "categoria": "Esportes",
+        "descricao": "Bicicleta montanha aro 26 com 18 marchas."
+    },
+    {
+        "nome": "Tênis Esportivo",
+        "valor": 300.00,
+        "quantidade_em_estoque": 50,
+        "fabricante": "SportWear",
+        "categoria": "Calçados",
+        "descricao": "Tênis leve e confortável para atividades físicas."
+    },
+    {
+        "nome": "Relógio de Pulso",
+        "valor": 250.00,
+        "quantidade_em_estoque": 35,
+        "fabricante": "ClassicTime",
+        "categoria": "Acessórios",
+        "descricao": "Relógio analógico com pulseira em couro."
+    },
+    {
+        "nome": "Bolsa de Ombro",
+        "valor": 180.00,
+        "quantidade_em_estoque": 45,
+        "fabricante": "FashionBag",
+        "categoria": "Moda",
+        "descricao": "Bolsa de ombro com design moderno e várias divisórias."
+    },
+    {
+        "nome": "Caderno Universitário",
+        "valor": 20.00,
+        "quantidade_em_estoque": 100,
+        "fabricante": "PaperCo",
+        "categoria": "Papeleria",
+        "descricao": "Caderno 200 folhas, capa dura e espiral."
+    },
+    {
+        "nome": "Caneta Esferográfica",
+        "valor": 2.00,
+        "quantidade_em_estoque": 500,
+        "fabricante": "WriteRight",
+        "categoria": "Papeleria",
+        "descricao": "Caneta esferográfica com tinta azul e ponta fina."
+    },
+    {
+        "nome": "Bloco de Notas",
+        "valor": 15.00,
+        "quantidade_em_estoque": 200,
+        "fabricante": "NoteIt",
+        "categoria": "Papeleria",
+        "descricao": "Bloco de notas com 100 folhas pautadas."
+    },
+    {
+        "nome": "Pasta Escolar",
+        "valor": 35.00,
+        "quantidade_em_estoque": 70,
+        "fabricante": "SchoolSupply",
+        "categoria": "Papeleria",
+        "descricao": "Pasta escolar com 10 divisórias e fechamento em zíper."
+    },
+    {
+        "nome": "Estojo Escolar",
+        "valor": 25.00,
+        "quantidade_em_estoque": 90,
+        "fabricante": "GearUp",
+        "categoria": "Papeleria",
+        "descricao": "Estojo com zíper, ideal para lápis e canetas."
+    },
+    {
+        "nome": "Cafeteira Elétrica",
+        "valor": 180.00,
+        "quantidade_em_estoque": 15,
+        "fabricante": "BrewMaster",
+        "categoria": "Eletrodomésticos",
+        "descricao": "Cafeteira elétrica com capacidade para 12 xícaras."
+    },
+    {
+        "nome": "Liquidificador",
+        "valor": 250.00,
+        "quantidade_em_estoque": 20,
+        "fabricante": "BlendIt",
+        "categoria": "Eletrodomésticos",
+        "descricao": "Liquidificador com 5 velocidades e jarra de vidro."
+    },
+    {
+        "nome": "Secador de Cabelo",
+        "valor": 150.00,
+        "quantidade_em_estoque": 30,
+        "fabricante": "StylePro",
+        "categoria": "Beleza",
+        "descricao": "Secador de cabelo com 3 temperaturas e bocal difusor."
+    },
+    {
+        "nome": "Escova de Dentes Elétrica",
+        "valor": 120.00,
+        "quantidade_em_estoque": 40,
+        "fabricante": "BrushTech",
+        "categoria": "Higiene",
+        "descricao": "Escova elétrica com temporizador e 3 modos de escovação."
+    },
+    {
+        "nome": "Sugador de Pó Portátil",
+        "valor": 90.00,
+        "quantidade_em_estoque": 60,
+        "fabricante": "DustAway",
+        "categoria": "Eletrodomésticos",
+        "descricao": "Sugador portátil, ideal para pequenos locais."
+    },
+    {
+        "nome": "Manta de Sofá",
+        "valor": 80.00,
+        "quantidade_em_estoque": 50,
+        "fabricante": "HomeCozy",
+        "categoria": "Decoração",
+        "descricao": "Manta de sofá macia e aconchegante, ideal para o inverno."
+    },
+    {
+        "nome": "Travesseiro de Memória",
+        "valor": 150.00,
+        "quantidade_em_estoque": 25,
+        "fabricante": "SleepWell",
+        "categoria": "Camas",
+        "descricao": "Travesseiro ortopédico em espuma de memória."
+    },
+    {
+        "nome": "Cortina Blackout",
+        "valor": 200.00,
+        "quantidade_em_estoque": 15,
+        "fabricante": "HomeStyle",
+        "categoria": "Decoração",
+        "descricao": "Cortina blackout que bloqueia a luz externa."
+    },
+    {
+        "nome": "Relógio Despertador",
+        "valor": 50.00,
+        "quantidade_em_estoque": 100,
+        "fabricante": "TimeKeep",
+        "categoria": "Decoração",
+        "descricao": "Relógio despertador com função snooze e luz noturna."
+    },
+    {
+        "nome": "Quadro Decorativo",
+        "valor": 70.00,
+        "quantidade_em_estoque": 40,
+        "fabricante": "ArtHome",
+        "categoria": "Decoração",
+        "descricao": "Quadro com arte moderna, ideal para qualquer ambiente."
+    },
+    {
+        "nome": "Estante de Livros",
+        "valor": 300.00,
+        "quantidade_em_estoque": 12,
+        "fabricante": "FurniDesign",
+        "categoria": "Móveis",
+        "descricao": "Estante de livros de madeira, capacidade para 30 livros."
+    },
+    {
+        "nome": "Mesa de Jantar",
+        "valor": 800.00,
+        "quantidade_em_estoque": 5,
+        "fabricante": "HomeFurniture",
+        "categoria": "Móveis",
+        "descricao": "Mesa de jantar retangular, ideal para 6 pessoas."
+    },
+    {
+        "nome": "Cama Queen Size",
+        "valor": 1500.00,
+        "quantidade_em_estoque": 8,
+        "fabricante": "Sleepy",
+        "categoria": "Camas",
+        "descricao": "Cama queen size com colchão de espuma."
+    },
+    {
+        "nome": "Poltrona Recliner",
+        "valor": 600.00,
+        "quantidade_em_estoque": 10,
+        "fabricante": "ComfortZone",
+        "categoria": "Móveis",
+        "descricao": "Poltrona reclinável com estofado macio."
+    },
+    {
+        "nome": "Luminária LED",
+        "valor": 100.00,
+        "quantidade_em_estoque": 30,
+        "fabricante": "LightTech",
+        "categoria": "Iluminação",
+        "descricao": "Luminária LED com regulagem de intensidade."
+    },
+    {
+        "nome": "Ventilador de Mesa",
+        "valor": 150.00,
+        "quantidade_em_estoque": 20,
+        "fabricante": "CoolBreeze",
+        "categoria": "Eletrodomésticos",
+        "descricao": "Ventilador portátil com 3 velocidades."
+    }
+]
